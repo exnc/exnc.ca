@@ -9,5 +9,8 @@ hero:
     - theme: alt
       text: Visit my GitHub ↗️
       link: https://github.com/exnc
+  image:
+    src: /logo.png
+    alt: exnc's logo
 ---
 
